@@ -11,8 +11,8 @@ app.get("/", (req, res) => {
 // Route 2: About
 app.get("/about", (req, res) => {
   res.status(200).json({
-    name: "YOUR NAME",
-    section: "YOUR SECTION NAME"
+    name: "MADDI RAKSHITH RATHAN",
+    section: "CSE GEN_AI -2B"
   });
 });
 
