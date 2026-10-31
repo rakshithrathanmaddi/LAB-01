@@ -12,7 +12,8 @@ app.get("/", (req, res) => {
 app.get("/about", (req, res) => {
   res.status(200).json({
     name: "MADDI RAKSHITH RATHAN",
-    section: "CSE GEN_AI -2B"
+    section: "CSE GEN_AI ,2B",
+    "roll no": "252U1R9087"
   });
 });
 
